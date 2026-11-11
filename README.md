@@ -88,6 +88,8 @@ Telegram 频道 [𝒃𝒂𝒃𝒚](https://t.me/Jsforbaby)（21K 订阅）作者
 
 Loon → 插件 → 添加插件，链接同上。
 
+> 上游 Loon 插件共 2 个，均为 18+ 应用专用，未收录，故本目录为空。
+
 （暂无）
 
 ## Quantumult X 重写（4）
@@ -454,7 +456,12 @@ Stash 覆写片段。
 
 ## 其他（附属配置）
 
-[]
+BoxJS 订阅等附属文件，非模块主体，按需取用。
+
+| 文件 | 说明 | 大小 |
+|---|---|---|
+| [boxjs订阅.json](https://raw.githubusercontent.com/qmq123181/Jsforbaby/main/其他/配置/boxjs订阅.json) | 频道脚本的 BoxJS 订阅入口 | 1.5 KB |
+| [PearVideo.boxjs.json](https://raw.githubusercontent.com/qmq123181/Jsforbaby/main/其他/配置/PearVideo.boxjs.json) | 梨视频 BoxJS 配置 | 21.8 KB |
 
 ## ipa / dmg 与 dylib
 
